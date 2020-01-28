@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Steele EV Site Soon
+                    SteeleAuto EV
                 </div>
 
                 <div class="links">
